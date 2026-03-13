@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "隠岐手紙",
+  "base_artist": "竹原ピストル",
+  "createdAt": "2026-03-13T05:33:04.007721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "隠岐手紙",
+      "artist": "竹原ピストル",
+      "has_synced": true,
+      "path": "select/01_隠岐手紙_竹原ピストル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "隠岐手紙",
+      "artist": "Takehara Pistol",
+      "has_synced": true,
+      "path": "select/02_隠岐手紙_Takehara_Pistol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "隠岐手紙",
+      "artist": "竹原ピストル",
+      "has_synced": false,
+      "path": "select/pl_01_隠岐手紙_竹原ピストル.txt"
+    }
+  ]
+}
